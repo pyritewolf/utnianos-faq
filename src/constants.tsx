@@ -1,4 +1,4 @@
 export const PATHS = {
-  home: '/',
-  ingreso: '/ingreso',
+  home: '/utnianos-faq/',
+  ingreso: '/utnianos-faq/ingreso',
 };
