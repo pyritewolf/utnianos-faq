@@ -1,0 +1,41 @@
+/* === cards === */
+.card {
+	--border-color: var(--darkest-gray);
+	background-color: var(--black);
+	border: 1px solid var(--border-color);
+	padding: var(--gap-sm);
+	border-radius: var(--radius);
+}
+
+.card > hr {
+	margin-left: calc(var(--gap-sm) * -1);
+	margin-right: calc(var(--gap-sm) * -1);
+}
+
+.card.hoverable {
+	box-shadow: 0 2px 0 var(--border-color);
+	cursor: pointer;
+	transition: 0.2s;
+}
+
+.card.hoverable .title { transition: 0.2s; }
+
+.card.hoverable:hover {
+	--border-color: var(--dark-gray);
+	box-shadow: 0 3px 0 var(--border-color);
+	transition: 0.2s;
+}
+
+.card.hoverable:hover .title {
+	transition: 0.2s;
+}
+
+.card > .title {
+	background-color: var(--darker-gray);
+	margin: calc(-1 * var(--gap-sm));
+	margin-bottom: var(--gap-sm);
+	padding: var(--gap-xs) var(--gap-sm);
+	border-bottom: 1px solid  var(--border-color);
+	border-radius: var(--radius) var(--radius) 0 0;
+	font-weight: 500;
+}

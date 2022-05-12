@@ -1,0 +1,12 @@
+.nav > a {
+  color: var(--lighter-gray);
+  text-decoration: none;
+}
+
+.nav > a:hover {
+  color: var(--lighter-gray)
+}
+
+.nav h3 {
+  padding: 0;
+}
