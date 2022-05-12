@@ -9,7 +9,7 @@ Un proyecto comunitario para resolver dudas comunes de la UTN FRBA.
 3. Corré `docker-compose run --rm ui npm install`
   - Es recomendable que vuelvas a correr esto cada vez que crees una nueva branch, por si alguien agregó dependencias
 4. Corré `docker-compose up`
-5. Andá a http://localhost:3001 ✨
+5. Andá a http://localhost:3001/utnianos-faq ✨
 
 ## Contribuir
 
