@@ -23,3 +23,11 @@
 	margin-top: calc(var(--gap-lg) * -1);
 	margin-bottom: var(--gap-lg);
 }
+
+.container main {
+	min-height: 80vh;
+}
+
+.container footer {
+	text-align: right;
+}
