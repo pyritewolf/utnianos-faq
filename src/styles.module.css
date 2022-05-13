@@ -29,5 +29,13 @@
 }
 
 .container footer {
-	text-align: right;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	gap: var(--gap-xs);
+	font-size: var(--font-sm);
+}
+
+.container footer a {
+	font-size: var(--font-lg);
 }
