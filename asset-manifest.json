@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/utnianos-faq/static/css/main.c2952789.css",
-    "main.js": "/utnianos-faq/static/js/main.ca715183.js",
+    "main.css": "/utnianos-faq/static/css/main.7a8d715b.css",
+    "main.js": "/utnianos-faq/static/js/main.6fd3fb39.js",
     "static/js/787.4eebdb36.chunk.js": "/utnianos-faq/static/js/787.4eebdb36.chunk.js",
     "index.html": "/utnianos-faq/index.html",
-    "main.c2952789.css.map": "/utnianos-faq/static/css/main.c2952789.css.map",
-    "main.ca715183.js.map": "/utnianos-faq/static/js/main.ca715183.js.map",
+    "main.7a8d715b.css.map": "/utnianos-faq/static/css/main.7a8d715b.css.map",
+    "main.6fd3fb39.js.map": "/utnianos-faq/static/js/main.6fd3fb39.js.map",
     "787.4eebdb36.chunk.js.map": "/utnianos-faq/static/js/787.4eebdb36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2952789.css",
-    "static/js/main.ca715183.js"
+    "static/css/main.7a8d715b.css",
+    "static/js/main.6fd3fb39.js"
   ]
 }
