@@ -24,7 +24,8 @@ function App() {
         </Routes>
       </main>
       <footer>
-        Hecho con el poder de los memes por UTNianos <a href="https://github.com/pyritewolf/utnianos-faq" target="_blank" rel="noreferrer"><i className="lab la-github"></i></a>
+        <span>Hecho con el poder de los memes por UTNianos</span>
+        <a href="https://github.com/pyritewolf/utnianos-faq" target="_blank" rel="noreferrer"><i className="lab la-github"></i></a>
       </footer>
     </div>
   );
